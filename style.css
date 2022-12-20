@@ -1,0 +1,36 @@
+* {
+  box-sizing: border-box;
+  padding: 0%
+  margin: 0%
+}
+
+body {
+  background-color: azure;
+}
+.header {
+  padding: 25px;
+  font-family: 'Lato', 'Montserat', 'Playfair display', 'Lucida Sans', Arial, sans-serif;
+  background-color: #0bb9ab;
+  color: #ffffff;
+  
+.hero-banner {
+  height: 150px;
+  width: 100%;
+  margin-bottom: 25px;
+  background-image: url("..images/website-development-process-1.jpg");
+  background-size: cover;
+  background-position: center;
+}
+
+h1,
+h2,
+h3,
+h4,
+h5,
+h6 {
+  margin: 0;
+}
+
+p {
+  margin: 0;
+}
